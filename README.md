@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dorkdeveloper
-- 👀 I’m interested in ... some things
+- 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ...  many things
-- 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... bat signal
 
 <!---
